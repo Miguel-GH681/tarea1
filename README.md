@@ -8,6 +8,6 @@ Esta tarea consiste en desarrollar un sitio web estático utilizando únicamente
 
 ## Demo
 
-Para ver la página web por favor haga click en el siguiente enlace
+Para ver la página web publicada por favor haga click en el siguiente enlace
 
 - [@Tarea 1](https://shiny-smakager-d7452f.netlify.app/)
